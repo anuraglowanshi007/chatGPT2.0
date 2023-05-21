@@ -1,1 +1,2 @@
-# chatGPT2.0
+# MernStack-chatGPT-Clone
+complete mern stack chat gpt clone 
